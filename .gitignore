@@ -6,3 +6,9 @@ ml-100k 3/
 event_db/
 event_db2/
 data/
+meetup/
+figure/
+neo4j-jupyter/
+projects/
+script/
+meetup_db/
